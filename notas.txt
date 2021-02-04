@@ -1,0 +1,9 @@
+NodeJS -> interpretador de Javascript e é baseado no V8
+            que é o Javascript engine do Chrome.
+            Com NodeJS é possivel rodar JS fora dos 
+            navegadores
+
+trabalha com Client-Server
+
+npm init -> usamos isso para gerar o package.json que auxilia
+no gerenciamento de pacotes do seu projeto
